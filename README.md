@@ -1,4 +1,4 @@
-# 💫 About Me: 
+# About Me: 
 ✨ Creating bugs since 2023<br>📚 I'm currently learning Software Develpment<br>🎯 Goals: Live a long happy life<br>🎲 Fun fact: I love touching grass
 
 
